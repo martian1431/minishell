@@ -11,7 +11,7 @@ As beautiful as a shell.
 **Total:** 107/125
 
 ### Team:  
-[Fred](https://github.com/martian1431), [Roger](https://github.com/rjwhobbs), [Mosima](https://github.com/mmamalek) and [Waseem]    
+[Martian](https://github.com/martian1431), [Roger](https://github.com/rjwhobbs), [Mosima](https://github.com/mmamalek) and Waseem    
 
 ## Installation:  
   
