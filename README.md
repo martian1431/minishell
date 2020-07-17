@@ -1,4 +1,4 @@
-# Minishell - C - 2019  
+# Minishell - @WeThinkCode_ 
 As beautiful as a shell.  
 
 ![GIF](Minishell.gif)  
