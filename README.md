@@ -6,20 +6,20 @@ As beautiful as a shell.
 ## WeThinkCode:
 
 **Mandatory:** 100/100  
-**Bonus:** 25/25  
+**Bonus:** 7/25  
 **Peers:** 125%   
-**Total:** 125/125
+**Total:** 107/125
 
 ### Team:  
-[Fred](https://github.com/FWMoor), [Mike](https://github.com/MikeFMeyer) and [Nolin](https://github.com/nreddystudent)    
+[Fred](https://github.com/martian1431), [Roger](https://github.com/rjwhobbs), [Mosima](https://github.com/mmamalek) and [Waseem]    
 
 ## Installation:  
   
 Clone the repo:  
   
 ```
-git clone https://github.com/FWMoor/Minishell  
-cd Minishell/Minishell
+git clone https://github.com/martian1431/minishell.git
+cd minishell
 ```  
 Run the following to build the binary: ```make```  
   
@@ -35,4 +35,4 @@ Run the following to build the binary: ```make```
 ```Ctrl + C```  
 
 ## Disclaimer:  
-This project isn't perfect! Use my code at your own risk. I know of some flags and args not working, if you would like to chat about it, come to my table or send me a slack. This was done with A LOT help from [Mike](https://github.com/MikeFMeyer), [Zia](https://github.com/ziadhorat) and [Nolin](https://github.com/nreddystudent).
+This project isn't perfect! Use this code at your own risk.
